@@ -6,7 +6,7 @@
     <img src="./img/black.png" width="100%" height="100px"/>
     <h1 class="main_image_text" style="font-size:40px">HONG 10</h1>
 </div>
-<style>
+<!-- <style>
 .main_image {
 position: relative;
 }
@@ -19,7 +19,7 @@ transform: translate( -50%, -50% );
 color: white;
 }
 </style>
-
+ -->
 
 
 ## HONG10 👋
