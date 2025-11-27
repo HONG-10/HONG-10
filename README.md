@@ -4,7 +4,6 @@
 
 <div class="main_image">
     <img src="./img/main_img.png" />
-    <h1 class="main_image_text" style="font-size:40px">HONG 10</h1>
 </div>
 <!-- <style>
 .main_image {
@@ -20,25 +19,3 @@ color: white;
 }
 </style>
  -->
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!-- <a target="_blank" href="" rel="">
-<img alt="" src="" data-canonical-src="" style=""></a> -->
-
-
-# Things I Develop With
-
-## Languages & Frameworks
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
