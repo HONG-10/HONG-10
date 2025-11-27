@@ -3,7 +3,7 @@
 <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.css" />
 
 <div class="main_image">
-    <img src="./img/black.png" width="100%" height="100px"/>
+    <img src="./img/9762374.jpg" width="100%" height="100px"/>
     <h1 class="main_image_text" style="font-size:40px">HONG 10</h1>
 </div>
 <!-- <style>
